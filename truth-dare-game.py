@@ -6,7 +6,7 @@ hide_footer = """
     footer {visibility: hidden;}
     </style>
 """
-st.markdown(hide_footer, unsafe_allow_html=True
+st.markdown(hide_footer, unsafe_allow_html=True)
 # Define truths and dares for couples
 truths_couples = [
     "Have you ever had a sexy dream about me? Tell me what it was like.",
